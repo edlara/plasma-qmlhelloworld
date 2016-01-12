@@ -1,0 +1,3 @@
+module org.custom.plasma.HelloWorld
+
+plugin plasmagreeter_qmlplugins

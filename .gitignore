@@ -1,0 +1,8 @@
+build/
+src/plasma/metadata.desktop
+*~
+.*.swp
+*.orig
+*.rej
+*.bak
+
